@@ -1,0 +1,358 @@
+dataset/frilly_0001.jpg frilly 
+dataset/frilly_0002.jpg frilly wrinkled 
+dataset/frilly_0003.jpg frilly 
+dataset/frilly_0004.jpg frilly 
+dataset/frilly_0005.jpg frilly 
+dataset/frilly_0006.jpg frilly 
+dataset/frilly_0007.jpg frilly 
+dataset/frilly_0008.jpg frilly 
+dataset/frilly_0009.jpg frilly 
+dataset/frilly_0010.jpg frilly 
+dataset/frilly_0011.jpg frilly 
+dataset/frilly_0012.jpg frilly 
+dataset/frilly_0013.jpg frilly 
+dataset/frilly_0014.jpg frilly 
+dataset/frilly_0015.jpg frilly 
+dataset/frilly_0016.jpg frilly 
+dataset/frilly_0017.jpg frilly 
+dataset/frilly_0018.jpg frilly 
+dataset/frilly_0019.jpg frilly 
+dataset/frilly_0020.jpg frilly wrinkled 
+dataset/frilly_0021.jpg frilly smeared 
+dataset/frilly_0022.jpg fibrous frilly 
+dataset/frilly_0023.jpg frilly 
+dataset/frilly_0024.jpg frilly 
+dataset/frilly_0025.jpg frilly 
+dataset/frilly_0026.jpg frilly 
+dataset/frilly_0028.jpg frilly 
+dataset/frilly_0029.jpg frilly 
+dataset/frilly_0030.jpg frilly 
+dataset/frilly_0031.jpg frilly 
+dataset/frilly_0032.jpg frilly 
+dataset/frilly_0033.jpg frilly 
+dataset/frilly_0034.jpg frilly 
+dataset/frilly_0035.jpg frilly 
+dataset/frilly_0036.jpg frilly 
+dataset/frilly_0037.jpg frilly 
+dataset/frilly_0038.jpg frilly 
+dataset/frilly_0039.jpg frilly veined 
+dataset/frilly_0040.jpg frilly 
+dataset/frilly_0041.jpg frilly 
+dataset/frilly_0042.jpg frilly 
+dataset/frilly_0043.jpg frilly 
+dataset/frilly_0044.jpg frilly 
+dataset/frilly_0045.jpg frilly 
+dataset/frilly_0046.jpg frilly 
+dataset/frilly_0047.jpg frilly 
+dataset/frilly_0048.jpg frilly 
+dataset/frilly_0049.jpg frilly 
+dataset/frilly_0050.jpg frilly 
+dataset/frilly_0051.jpg frilly 
+dataset/frilly_0052.jpg frilly 
+dataset/frilly_0053.jpg frilly 
+dataset/frilly_0054.jpg frilly 
+dataset/frilly_0055.jpg frilly 
+dataset/frilly_0056.jpg frilly 
+dataset/frilly_0057.jpg frilly 
+dataset/frilly_0058.jpg frilly 
+dataset/frilly_0059.jpg frilly 
+dataset/frilly_0060.jpg frilly 
+dataset/frilly_0061.jpg frilly 
+dataset/frilly_0062.jpg frilly 
+dataset/frilly_0063.jpg frilly 
+dataset/frilly_0064.jpg frilly 
+dataset/frilly_0065.jpg frilly 
+dataset/frilly_0066.jpg frilly wrinkled 
+dataset/frilly_0067.jpg frilly 
+dataset/frilly_0068.jpg frilly 
+dataset/frilly_0069.jpg frilly 
+dataset/frilly_0070.jpg frilly 
+dataset/frilly_0071.jpg frilly 
+dataset/frilly_0072.jpg frilly 
+dataset/frilly_0073.jpg frilly 
+dataset/frilly_0074.jpg frilly 
+dataset/frilly_0075.jpg frilly 
+dataset/frilly_0076.jpg frilly 
+dataset/frilly_0077.jpg frilly 
+dataset/frilly_0078.jpg frilly 
+dataset/frilly_0079.jpg frilly 
+dataset/frilly_0080.jpg frilly 
+dataset/frilly_0081.jpg frilly 
+dataset/frilly_0082.jpg frilly 
+dataset/frilly_0083.jpg frilly 
+dataset/frilly_0085.jpg frilly 
+dataset/frilly_0086.jpg frilly 
+dataset/frilly_0087.jpg frilly 
+dataset/frilly_0089.jpg frilly 
+dataset/frilly_0090.jpg frilly 
+dataset/frilly_0091.jpg frilly 
+dataset/frilly_0092.jpg frilly 
+dataset/frilly_0093.jpg frilly 
+dataset/frilly_0094.jpg frilly 
+dataset/frilly_0095.jpg frilly 
+dataset/frilly_0099.jpg frilly 
+dataset/frilly_0100.jpg frilly 
+dataset/frilly_0101.jpg blotchy frilly 
+dataset/frilly_0102.jpg frilly 
+dataset/frilly_0103.jpg frilly 
+dataset/frilly_0104.jpg frilly 
+dataset/frilly_0105.jpg frilly 
+dataset/frilly_0106.jpg frilly 
+dataset/frilly_0107.jpg frilly 
+dataset/frilly_0108.jpg frilly 
+dataset/frilly_0109.jpg frilly 
+dataset/frilly_0110.jpg frilly 
+dataset/frilly_0111.jpg frilly 
+dataset/frilly_0112.jpg frilly 
+dataset/frilly_0113.jpg frilly 
+dataset/frilly_0114.jpg frilly 
+dataset/frilly_0115.jpg frilly 
+dataset/frilly_0116.jpg frilly 
+dataset/frilly_0117.jpg frilly 
+dataset/frilly_0118.jpg frilly 
+dataset/frilly_0119.jpg frilly 
+dataset/frilly_0120.jpg frilly 
+dataset/frilly_0121.jpg frilly 
+dataset/frilly_0122.jpg frilly 
+dataset/frilly_0123.jpg frilly 
+dataset/frilly_0124.jpg frilly 
+dataset/frilly_0125.jpg frilly 
+dataset/frilly_0126.jpg frilly 
+dataset/fibrous_0035.jpg fibrous 
+dataset/fibrous_0083.jpg fibrous 
+dataset/fibrous_0089.jpg fibrous 
+dataset/fibrous_0095.jpg fibrous 
+dataset/fibrous_0096.jpg fibrous 
+dataset/fibrous_0101.jpg fibrous 
+dataset/fibrous_0102.jpg fibrous 
+dataset/fibrous_0103.jpg fibrous 
+dataset/fibrous_0104.jpg fibrous 
+dataset/fibrous_0105.jpg fibrous 
+dataset/fibrous_0107.jpg fibrous 
+dataset/fibrous_0108.jpg fibrous matted 
+dataset/fibrous_0109.jpg fibrous 
+dataset/fibrous_0110.jpg fibrous 
+dataset/fibrous_0111.jpg fibrous 
+dataset/fibrous_0112.jpg fibrous 
+dataset/fibrous_0113.jpg fibrous 
+dataset/fibrous_0114.jpg fibrous 
+dataset/fibrous_0115.jpg fibrous 
+dataset/fibrous_0116.jpg fibrous 
+dataset/fibrous_0117.jpg fibrous 
+dataset/fibrous_0118.jpg fibrous 
+dataset/fibrous_0119.jpg fibrous 
+dataset/fibrous_0120.jpg fibrous 
+dataset/fibrous_0121.jpg fibrous 
+dataset/fibrous_0122.jpg fibrous 
+dataset/fibrous_0123.jpg fibrous 
+dataset/fibrous_0124.jpg fibrous 
+dataset/fibrous_0125.jpg fibrous 
+dataset/fibrous_0126.jpg fibrous 
+dataset/fibrous_0127.jpg fibrous 
+dataset/fibrous_0128.jpg fibrous 
+dataset/fibrous_0129.jpg fibrous 
+dataset/fibrous_0130.jpg fibrous 
+dataset/fibrous_0131.jpg fibrous 
+dataset/fibrous_0132.jpg fibrous 
+dataset/fibrous_0133.jpg fibrous 
+dataset/fibrous_0134.jpg fibrous 
+dataset/fibrous_0135.jpg fibrous 
+dataset/fibrous_0136.jpg fibrous 
+dataset/fibrous_0137.jpg fibrous 
+dataset/fibrous_0138.jpg fibrous 
+dataset/fibrous_0139.jpg fibrous 
+dataset/fibrous_0140.jpg fibrous matted 
+dataset/fibrous_0141.jpg fibrous 
+dataset/fibrous_0142.jpg fibrous 
+dataset/fibrous_0143.jpg fibrous 
+dataset/fibrous_0144.jpg fibrous 
+dataset/fibrous_0146.jpg fibrous 
+dataset/fibrous_0147.jpg fibrous 
+dataset/fibrous_0148.jpg fibrous 
+dataset/fibrous_0149.jpg fibrous 
+dataset/fibrous_0150.jpg fibrous 
+dataset/fibrous_0152.jpg fibrous 
+dataset/fibrous_0153.jpg fibrous matted 
+dataset/fibrous_0154.jpg fibrous 
+dataset/fibrous_0155.jpg fibrous 
+dataset/fibrous_0156.jpg fibrous veined 
+dataset/fibrous_0157.jpg fibrous 
+dataset/fibrous_0158.jpg fibrous 
+dataset/fibrous_0159.jpg fibrous 
+dataset/fibrous_0160.jpg fibrous 
+dataset/fibrous_0161.jpg fibrous 
+dataset/fibrous_0162.jpg fibrous 
+dataset/fibrous_0163.jpg fibrous 
+dataset/fibrous_0164.jpg fibrous matted 
+dataset/fibrous_0165.jpg fibrous 
+dataset/fibrous_0166.jpg fibrous 
+dataset/fibrous_0167.jpg fibrous 
+dataset/fibrous_0168.jpg fibrous 
+dataset/fibrous_0169.jpg fibrous matted 
+dataset/fibrous_0170.jpg fibrous 
+dataset/fibrous_0171.jpg fibrous 
+dataset/fibrous_0172.jpg fibrous 
+dataset/fibrous_0173.jpg fibrous 
+dataset/fibrous_0174.jpg fibrous veined 
+dataset/fibrous_0175.jpg fibrous 
+dataset/fibrous_0176.jpg fibrous 
+dataset/fibrous_0177.jpg fibrous 
+dataset/fibrous_0178.jpg fibrous 
+dataset/fibrous_0179.jpg fibrous 
+dataset/fibrous_0180.jpg fibrous 
+dataset/fibrous_0181.jpg fibrous 
+dataset/fibrous_0182.jpg blotchy fibrous 
+dataset/fibrous_0183.jpg fibrous 
+dataset/fibrous_0184.jpg fibrous 
+dataset/fibrous_0185.jpg fibrous 
+dataset/fibrous_0186.jpg fibrous 
+dataset/fibrous_0187.jpg fibrous 
+dataset/fibrous_0188.jpg fibrous 
+dataset/fibrous_0189.jpg fibrous 
+dataset/fibrous_0190.jpg fibrous 
+dataset/fibrous_0191.jpg fibrous 
+dataset/fibrous_0192.jpg fibrous 
+dataset/fibrous_0193.jpg fibrous 
+dataset/fibrous_0194.jpg fibrous 
+dataset/fibrous_0195.jpg fibrous 
+dataset/fibrous_0196.jpg fibrous matted 
+dataset/fibrous_0197.jpg fibrous spiralled 
+dataset/fibrous_0198.jpg fibrous 
+dataset/fibrous_0199.jpg fibrous 
+dataset/fibrous_0200.jpg fibrous 
+dataset/fibrous_0201.jpg fibrous 
+dataset/fibrous_0202.jpg fibrous 
+dataset/fibrous_0203.jpg fibrous 
+dataset/fibrous_0204.jpg fibrous 
+dataset/fibrous_0205.jpg fibrous 
+dataset/fibrous_0206.jpg fibrous 
+dataset/fibrous_0207.jpg fibrous 
+dataset/fibrous_0208.jpg fibrous 
+dataset/fibrous_0209.jpg fibrous 
+dataset/fibrous_0210.jpg fibrous matted 
+dataset/fibrous_0211.jpg fibrous 
+dataset/fibrous_0212.jpg fibrous 
+dataset/fibrous_0213.jpg fibrous 
+dataset/fibrous_0215.jpg fibrous 
+dataset/fibrous_0216.jpg fibrous 
+dataset/fibrous_0217.jpg fibrous 
+dataset/blotchy_0003.jpg blotchy 
+dataset/blotchy_0006.jpg blotchy 
+dataset/blotchy_0009.jpg blotchy 
+dataset/blotchy_0015.jpg blotchy 
+dataset/blotchy_0016.jpg blotchy 
+dataset/blotchy_0017.jpg blotchy 
+dataset/blotchy_0018.jpg blotchy 
+dataset/blotchy_0019.jpg blotchy 
+dataset/blotchy_0021.jpg blotchy smeared 
+dataset/blotchy_0022.jpg blotchy 
+dataset/blotchy_0025.jpg blotchy 
+dataset/blotchy_0026.jpg blotchy 
+dataset/blotchy_0027.jpg blotchy 
+dataset/blotchy_0028.jpg blotchy 
+dataset/blotchy_0029.jpg blotchy 
+dataset/blotchy_0031.jpg blotchy 
+dataset/blotchy_0032.jpg blotchy 
+dataset/blotchy_0033.jpg blotchy 
+dataset/blotchy_0034.jpg blotchy 
+dataset/blotchy_0036.jpg blotchy smeared 
+dataset/blotchy_0037.jpg blotchy 
+dataset/blotchy_0038.jpg blotchy 
+dataset/blotchy_0039.jpg blotchy 
+dataset/blotchy_0040.jpg blotchy 
+dataset/blotchy_0041.jpg blotchy 
+dataset/blotchy_0042.jpg blotchy 
+dataset/blotchy_0044.jpg blotchy 
+dataset/blotchy_0045.jpg blotchy smeared 
+dataset/blotchy_0046.jpg blotchy 
+dataset/blotchy_0047.jpg blotchy 
+dataset/blotchy_0048.jpg blotchy stained 
+dataset/blotchy_0049.jpg blotchy 
+dataset/blotchy_0051.jpg blotchy 
+dataset/blotchy_0052.jpg blotchy 
+dataset/blotchy_0053.jpg blotchy 
+dataset/blotchy_0054.jpg blotchy pitted 
+dataset/blotchy_0055.jpg blotchy 
+dataset/blotchy_0056.jpg blotchy 
+dataset/blotchy_0057.jpg blotchy 
+dataset/blotchy_0058.jpg blotchy 
+dataset/blotchy_0059.jpg blotchy 
+dataset/blotchy_0060.jpg blotchy 
+dataset/blotchy_0061.jpg blotchy pitted 
+dataset/blotchy_0062.jpg blotchy 
+dataset/blotchy_0063.jpg blotchy smeared 
+dataset/blotchy_0064.jpg blotchy 
+dataset/blotchy_0065.jpg blotchy cracked 
+dataset/blotchy_0066.jpg blotchy 
+dataset/blotchy_0067.jpg blotchy 
+dataset/blotchy_0068.jpg blotchy 
+dataset/blotchy_0069.jpg blotchy smeared 
+dataset/blotchy_0070.jpg blotchy 
+dataset/blotchy_0071.jpg blotchy 
+dataset/blotchy_0072.jpg blotchy 
+dataset/blotchy_0073.jpg blotchy 
+dataset/blotchy_0074.jpg blotchy 
+dataset/blotchy_0075.jpg blotchy 
+dataset/blotchy_0077.jpg blotchy 
+dataset/blotchy_0079.jpg blotchy 
+dataset/blotchy_0080.jpg blotchy 
+dataset/blotchy_0081.jpg blotchy 
+dataset/blotchy_0082.jpg blotchy 
+dataset/blotchy_0083.jpg blotchy marbled 
+dataset/blotchy_0084.jpg blotchy 
+dataset/blotchy_0085.jpg blotchy 
+dataset/blotchy_0086.jpg blotchy 
+dataset/blotchy_0087.jpg blotchy 
+dataset/blotchy_0088.jpg blotchy 
+dataset/blotchy_0089.jpg blotchy 
+dataset/blotchy_0090.jpg blotchy 
+dataset/blotchy_0091.jpg blotchy 
+dataset/blotchy_0092.jpg blotchy smeared 
+dataset/blotchy_0093.jpg blotchy 
+dataset/blotchy_0094.jpg blotchy 
+dataset/blotchy_0096.jpg blotchy 
+dataset/blotchy_0097.jpg blotchy 
+dataset/blotchy_0098.jpg blotchy 
+dataset/blotchy_0099.jpg blotchy 
+dataset/blotchy_0100.jpg blotchy 
+dataset/blotchy_0101.jpg blotchy stained 
+dataset/blotchy_0102.jpg blotchy 
+dataset/blotchy_0103.jpg blotchy 
+dataset/blotchy_0104.jpg blotchy 
+dataset/blotchy_0105.jpg blotchy 
+dataset/blotchy_0106.jpg blotchy 
+dataset/blotchy_0107.jpg blotchy 
+dataset/blotchy_0108.jpg blotchy 
+dataset/blotchy_0109.jpg blotchy veined 
+dataset/blotchy_0110.jpg blotchy frilly 
+dataset/blotchy_0111.jpg blotchy 
+dataset/blotchy_0112.jpg blotchy veined 
+dataset/blotchy_0113.jpg blotchy 
+dataset/blotchy_0114.jpg blotchy 
+dataset/blotchy_0115.jpg blotchy 
+dataset/blotchy_0116.jpg blotchy 
+dataset/blotchy_0117.jpg blotchy 
+dataset/blotchy_0118.jpg blotchy 
+dataset/blotchy_0119.jpg blotchy 
+dataset/blotchy_0120.jpg blotchy 
+dataset/blotchy_0121.jpg blotchy smeared 
+dataset/blotchy_0122.jpg blotchy 
+dataset/blotchy_0123.jpg blotchy 
+dataset/blotchy_0124.jpg blotchy 
+dataset/blotchy_0125.jpg blotchy 
+dataset/blotchy_0126.jpg blotchy 
+dataset/blotchy_0127.jpg blotchy 
+dataset/blotchy_0128.jpg blotchy 
+dataset/blotchy_0129.jpg blotchy 
+dataset/blotchy_0130.jpg blotchy 
+dataset/blotchy_0131.jpg blotchy freckled 
+dataset/blotchy_0132.jpg blotchy 
+dataset/blotchy_0133.jpg blotchy pitted 
+dataset/blotchy_0134.jpg blotchy 
+dataset/blotchy_0135.jpg blotchy veined 
+dataset/blotchy_0136.jpg blotchy stained 
+dataset/blotchy_0137.jpg blotchy smeared stained 
+dataset/blotchy_0138.jpg blotchy 
+dataset/blotchy_0139.jpg blotchy 
+dataset/blotchy_0140.jpg blotchy 
+dataset/blotchy_0141.jpg blotchy 
